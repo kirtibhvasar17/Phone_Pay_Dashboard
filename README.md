@@ -24,3 +24,6 @@ The main objective of this project is to transform transaction data into meaning
 📌 Project Type
 
 Data Analytics | Power BI Dashboard | Business Intelligence
+
+Screenshot-
+https://github.com/kirtibhvasar17/Phone_Pay_Dashboard/blob/main/Phonepe_Transaction_Analysis_Dashboard.png
